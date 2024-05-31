@@ -14,4 +14,5 @@
 #### upDatePrice(<String>, <String>)
 #### upDateDescription(<String>, <String>) <Boolean>
 #### findPartNum(<String>) <Boolean>
-#### deleteRecord(<String>) <isFind>
+#### deleteRecord(<String>) <Boolean>
+#### read()
