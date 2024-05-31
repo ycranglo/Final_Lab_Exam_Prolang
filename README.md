@@ -10,7 +10,7 @@
 #### isValidDiscription(<String>) <Boolean>
 #### isValidPartNumber(<String>) <Boolean>
 #### isValidPrice(<String>) <Boolean>
-#### create(<String>,<String>,<String>)
+#### create(`<String>` <String>,<String>,<String>)
 #### upDatePrice('<String>', <String>)
 #### upDateDescription(<String>, <String>) <Boolean>
 #### findPartNum(<String>) <Boolean>
