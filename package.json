@@ -1,0 +1,22 @@
+{
+  "name": "final-lab-exam-inventory-prolang",
+  "version": "1.0.0",
+  "description": "this library is a final laboratory exam. submitted by yocor angelo and escobanas kent cedric.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycranglo/Final_Lab_Exam_Prolang.git"
+  },
+  "keywords": [
+    "final-lab-exam-inventory-prolang"
+  ],
+  "author": "yocor angelo, escobanas kent cedric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycranglo/Final_Lab_Exam_Prolang/issues"
+  },
+  "homepage": "https://github.com/ycranglo/Final_Lab_Exam_Prolang#readme"
+}
