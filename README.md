@@ -11,7 +11,7 @@
 #### isValidPartNumber(<String>) <Boolean>
 #### isValidPrice(<String>) <Boolean>
 #### create(<String>,<String>,<String>)
-#### upDatePrice(<String>, <String>)
+#### upDatePrice('<String>', <String>)
 #### upDateDescription(<String>, <String>) <Boolean>
 #### findPartNum(<String>) <Boolean>
 #### deleteRecord(<String>) <Boolean>
