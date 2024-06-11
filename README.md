@@ -4,7 +4,7 @@
 # SUBMMITED BY : YOCOR, ANGELO T., ESCOBANAS, KENT CEDRIC F.
 
 # INSTRUCTIONS IN USING THE LIBRARY
-## install : `npm i final-lab-exam-inventory-prolang2`
+## install : `npm i finals-prolang-exam-lab`
 ## FOR VALIDATING THE INPUT OF THE USER
 
 ### FUNCTIONS:
