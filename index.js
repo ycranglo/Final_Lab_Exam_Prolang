@@ -105,16 +105,19 @@ function deleteRecord(partNumber) {
 }
 
 function read() {
-  console.log("Inventory Records");
-  console.log();
-  console.log("PartNumber     || Description               || Price     ");
+   const resultArray = [];
+  
   for (let i = 0; i < CountRecords; i++) {
     if (records[i] !== null && records[i].isDelete !== true) {
-      console.log(
-        `${records[i].partNumber}     || ${records[i].partDescriptionString}          || $ ${records[i].price}`
-      );
+      resultArray.push({
+        partNumber: records[i].partNumber,
+        partDescriptionString: records[i].partDescriptionString,
+        price: records[i].price
+      });
     }
   }
+  
+  return resultArray;
 }
 
 // Export the functions and any necessary data
