@@ -131,5 +131,6 @@ module.exports = {
   read,
   deleteRecord,
   isValidDiscription,
-  isValidPartNumber
+  isValidPartNumber,
+  isValidPrice
 };
